@@ -1,2 +1,3 @@
 # kutyafule
 teszt
+kinyitottam
